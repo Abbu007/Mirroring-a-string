@@ -5,7 +5,6 @@
 
 
 x='Edyoda'
-y=len(x) 
 z=x[::-1] 
 for i in z: 
     print(i,end='') 
